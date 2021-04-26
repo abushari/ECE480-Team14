@@ -21,7 +21,9 @@ The files can be found in the Silverware file in the raspberry pi. The functiona
 Run the following commands in the command line:
 
 1- $ source OpenCV-master-pi3/bin/activate
+
 2- $ cd SilverwareDetection/
+
 3- $ python3 SystemMain.py
 
 # Link for previous Repository
